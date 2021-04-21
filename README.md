@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**shyam0904a/shyam0904a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 Intermediate C++ developer
 - Pursuing Degree in CSE with specilization in Cyber security II nd year ;UnderGrad;)
 - I’m currently learning to build Desktop GUI Application using C++(Visual studio|Qt framework)
@@ -12,4 +8,4 @@
 -                     Mail      @shyamganesh01@gmail.com
 - 
 - 
--->
+
