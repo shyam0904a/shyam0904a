@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Intermediate C++ developer
+- 🔭 Intermediate C++ developer,ANDROID OS DEV.
 - Pursuing Degree in CSE with specilization in Cyber security II nd year ;UnderGrad;)
 - I’m currently learning to build Desktop GUI Application using C++(Visual studio|Qt framework)
 - Looking forward to start with WebDevelopment.
