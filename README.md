@@ -1,4 +1,4 @@
-###MagicByte
+### MagicByte
 - Cybersecurity student
 - Red Teaming
 - 📫 How to reach me: 
