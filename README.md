@@ -1,12 +1,12 @@
 <h1 align="center">Sam0x</h1>
-<h3 align="center">Cybersec|CTF|RED-TEAMING</h3>
+<h3 align="center">Cybersec|CTF</h3>
 <h3 align="center">Looking for active ctf teammates :* https://ctftime.org/team/3951 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam0904a&label=Profile%20views&color=0e75b6&style=flat" alt="sam0904a" /> </p>
 
-- ⚡ Fun fact **Cant break it? then dismantle it :)**
+**Cant break it? then dismantle it :)**
  
- <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/shyamganesh.png" alt="TryHackMe"></p>
+ <p align="left">  <img src="https://tryhackme-badges.s3.amazonaws.com/shyamganesh.png" alt="TryHackMe"></p>
 
 
 <h3 align="left">Connect with me:</h3>
