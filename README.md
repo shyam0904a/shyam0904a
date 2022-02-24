@@ -6,7 +6,7 @@
 
 **Cant break it? then dismantle it :)**
  
- <p align="left">  <img src="https://tryhackme-badges.s3.amazonaws.com/shyamganesh.png" alt="TryHackMe"></p>
+ <p align="left"> <img src="https://tryhackme-badges.s3.amazonaws.com/shyamganesh.png" alt="TryHackMe"></p>
 
 
 <h3 align="left">Connect with me:</h3>
